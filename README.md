@@ -35,6 +35,10 @@
 ## 🚀 Next Level Week #04 - MoveIt  
 The Next Level Week is a project created by [RocketSeat](https://rocketseat.com.br/) to replace the OmniStack Week. 
 
+The 4th edition differs from the other by bringing three different options of trails: ReactJS, Node.js, and Elixir. 
+
+This is the React trail!
+
 <br>
 
 **🎓  Instructor: [Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)**<br>
@@ -49,6 +53,9 @@ The Next Level Week is a project created by [RocketSeat](https://rocketseat.com.
 <br> 
 
 ## ⏱ The Project:
+"Move.it" is a project that uses the Pomodoro technique to help people concentrate on their tasks for 25 minutes straight and challenges you by suggesting exercises to help you stretch your body or relax your eyes by the end of this countdown.
+
+You get XP by completing these challenges and can level up by accumulating them.
 
 ![home](https://user-images.githubusercontent.com/53796370/110780343-5bd46d00-8243-11eb-8f59-a733ed937538.gif)
 
