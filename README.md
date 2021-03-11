@@ -17,7 +17,7 @@
   
   <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/722ecf5da4644001995eba58bb45bfe9">
   
-  <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/Liajux/NextLevelWeek-MoveIt">
+   <img alt="MIT License" src="https://img.shields.io/github/license/LiajuX/NextLevelWeek-MoveIt">
 </p>
 
 <h3 align="center">
