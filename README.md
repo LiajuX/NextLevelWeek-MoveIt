@@ -35,7 +35,7 @@
 ## 🚀 Next Level Week #04 - MoveIt  
 The Next Level Week is a project created by [RocketSeat](https://rocketseat.com.br/) to replace the OmniStack Week. 
 
-The 4th edition differs from the other by bringing three different options of trails: ReactJS, Node.js, and Elixir. 
+The 4th edition differs from the 3rd by bringing three different options of trails: ReactJS, Node.js, and Elixir. 
 
 This is the React trail!
 
